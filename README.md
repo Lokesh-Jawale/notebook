@@ -1,3 +1,11 @@
+# Notebook website
+
+This is Notebook website.
+!["Notebook website preview image"](https://github.com/[Lokesh-Jawale]/[notebook]/blob/[master]/images/Notebook.png?raw=true)
+
+You can add, edit or delete Subjects, Topics, notes.
+!["Notebook website preview image"](https://github.com/[Lokesh-Jawale]/[notebook]/blob/[master]/images/NotebookAdd.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
